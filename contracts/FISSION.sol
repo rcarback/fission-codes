@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-import { LocalizationPreferences} from "/ethereum-localized-messaging/contracts/LocalizationPreferences.sol";
+import { LocalizationPreferences} from "ethereum-localized-messaging/contracts/LocalizationPreferences.sol";
 import { FissionLocalization } from "./localization/FissionLocalization.sol";
 
 /**
